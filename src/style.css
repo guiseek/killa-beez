@@ -1,4 +1,10 @@
-:root {
+body main {
+  display: flex;
+  align-items: center;
+  gap: 44px;
+}
+
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -94,4 +100,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
